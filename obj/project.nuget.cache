@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TnrxgYHXNCw=",
+  "success": true,
+  "projectFilePath": "G:\\SIA2\\Producer\\Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\COLLEGELAB-04\\.nuget\\packages\\rabbitmq.client\\7.2.2\\rabbitmq.client.7.2.2.nupkg.sha512",
+    "C:\\Users\\COLLEGELAB-04\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\COLLEGELAB-04\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
